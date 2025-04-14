@@ -5,18 +5,18 @@ This repository is still a WIP.
 
 
 # Software projects (Python, HTML/CSS)
-These are software
+These are software projects I have worked on. 
 
 
 
 # PC Builds/ Hardware 
-
+Here are any PC Builds or hardwrae related projects that Ive worked on. 
 
 
 
 
 # 3D Printing & CAD
-Here are the 3D printing and CAD files I use for my projects 
+Here are the 3D printing and CAD files I use for my projects.
 
 
 
